@@ -1,0 +1,6 @@
+"CustomerID","CustomerName","Address","PhoneNumber","EmailAddress"
+1100,"Roly Roy","1 Baseline Rd, Ottawa, ON","256-526-5656","R@gmail.com"
+2200,"Daniel K","2 Baseline Rd, Ottawa, ON","258-654-9514","D@gmail.com"
+3300,"Hala Own","3 Baseline Rd, Ottawa, ON","123-654-7890","H@gmail.com"
+4400,"Mathew O","4 Baseline Rd, Ottawa, ON","014-741-0147","M@gmail.com"
+5500,"Amal Ibrahim","5 Baseline Rd, Ottawa, ON","963-357-9510","A@gmail.com"

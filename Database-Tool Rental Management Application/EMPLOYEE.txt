@@ -1,0 +1,6 @@
+"EmployeeID","EmployeeFullName","EmailAddress","Address","HiringDate","PhoneNumber","OrderID(FK)"
+1000,"Aram Esmaeili","Aram@gmail.com","1 woodrof avenue, Ottawa, ON","1/1/2020","123-456-8520",0
+2000,"Mahdy Dellawari","Mahdy@gmail.com","2 woodrof avenue, Ottawa, ON","2/1/2020","321-258-4569",0
+3000,"Mahsa Danesh","Mahsa@gmail.com","3 woodrof avenue, Ottawa, ON","3/1/2020","321-548-7516",0
+4000,"Rustom K","Rustom@gmail.com","4 woodrof avenue, Ottawa, ON","4/1/2020","957-586-7841",0
+5000,"Vishali M","Vishali@gmail.com","5 woodrof avenue, Ottawa, ON","5/1/2020","658-321-6598",0
